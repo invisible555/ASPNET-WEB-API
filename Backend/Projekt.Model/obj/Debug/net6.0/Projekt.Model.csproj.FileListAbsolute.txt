@@ -1,0 +1,14 @@
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\bin\Debug\net6.0\Projekt.Model.deps.json
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\bin\Debug\net6.0\Projekt.Model.runtimeconfig.json
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\bin\Debug\net6.0\Projekt.Model.dll
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\bin\Debug\net6.0\Projekt.Model.pdb
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.csproj.AssemblyReference.cache
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.AssemblyInfoInputs.cache
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.AssemblyInfo.cs
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.dll
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\refint\Projekt.Model.dll
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.pdb
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\Projekt.Model.genruntimeconfig.cache
+C:\Users\niewi\Desktop\ProjektTNAI\Projekt\Projekt.Model\obj\Debug\net6.0\ref\Projekt.Model.dll

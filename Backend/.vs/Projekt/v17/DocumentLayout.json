@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt.model\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|solutionrelative:projekt.model\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|solutionrelative:projekt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt.model\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|solutionrelative:projekt.model\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt.model\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|solutionrelative:projekt.model\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03287789-BC8D-4F4B-97AA-FD0145751A33}|ProjektDto\\Projekt.Dto.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projektdto\\authors\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03287789-BC8D-4F4B-97AA-FD0145751A33}|ProjektDto\\Projekt.Dto.csproj|solutionrelative:projektdto\\authors\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|solutionrelative:projekt\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt.model\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7720CB-B56E-491A-8F30-6F3F0B63E8C6}|Projekt.Model\\Projekt.Model.csproj|solutionrelative:projekt.model\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|solutionrelative:projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt\\configurations\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|solutionrelative:projekt\\configurations\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|solutionrelative:projekt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|c:\\users\\niewi\\desktop\\projekttnai\\projekt\\projekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46678AEA-53BA-4583-98DF-F0B7769A919A}|Projekt\\Projekt.Api.csproj|solutionrelative:projekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\SeedData.cs",
+              "RelativeDocumentMoniker": "Projekt.Model\\SeedData.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\SeedData.cs",
+              "RelativeToolTip": "Projekt.Model\\SeedData.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwDEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:10:04.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Projekt\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Projekt\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:09:55.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Entities\\Publisher.cs",
+              "RelativeDocumentMoniker": "Projekt.Model\\Entities\\Publisher.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Entities\\Publisher.cs",
+              "RelativeToolTip": "Projekt.Model\\Entities\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:09:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt\\Program.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Program.cs",
+              "RelativeToolTip": "Projekt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:23:42.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Configurations\\Profiles\\AuthorProfile.cs",
+              "RelativeDocumentMoniker": "Projekt\\Configurations\\Profiles\\AuthorProfile.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Configurations\\Profiles\\AuthorProfile.cs",
+              "RelativeToolTip": "Projekt\\Configurations\\Profiles\\AuthorProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:16:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Projekt\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Projekt\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:15:01.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\Authors\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "ProjektDto\\Authors\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\Authors\\AuthorDto.cs",
+              "RelativeToolTip": "ProjektDto\\Authors\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:12:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Projekt.Model\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Entities\\Author.cs",
+              "RelativeToolTip": "Projekt.Model\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:11:29.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Projekt.Model\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Entities\\Book.cs",
+              "RelativeToolTip": "Projekt.Model\\Entities\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:11:26.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Projekt\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Projekt\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T15:34:31.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\appsettings.json",
+              "RelativeDocumentMoniker": "Projekt\\appsettings.json",
+              "ToolTip": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt\\appsettings.json",
+              "RelativeToolTip": "Projekt\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T15:25:19.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
