@@ -1,8 +1,10 @@
 .header {
   height: 50px;
   background-color: #cdcdcd;
+  background: url("../../assets/images/react.svg") center;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 50px 15xp;
+  padding: 80px 15xp;
 }
