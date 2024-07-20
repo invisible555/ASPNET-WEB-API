@@ -1,8 +1,8 @@
-import React from "react";
 import styles from "./Book.module.css";
 import img from "../../../assets/images/react.svg";
 
-function Book() {
+function Book(props) {
+
   return (
     <div className={`row ${styles.book}`}>
       <div className="col-4">
@@ -11,8 +11,8 @@ function Book() {
       <div className="col-8">
         <div className="row">
           <div className="col">
-            <p>Tytuł</p>
-            <p>Miasto</p>
+            <p>{props.name}</p>
+            <p>{props.description}</p>
           </div>
         </div>
       </div>
