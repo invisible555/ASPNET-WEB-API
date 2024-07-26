@@ -1,11 +1,11 @@
-import React from "react";
 import styles from "./Header.module.css";
 import SearchBar from "./SearchBar/SearchBar";
+import IHeaderProps from "../../interfaces/IHeaderProps";
 
-function Header() {
+function Header(props: IHeaderProps) {
   return (
     <header className={`${styles.header} container`}>
-      <SearchBar />
+      <SearchBar onSearch={props.onSearch} />
     </header>
   );
 }

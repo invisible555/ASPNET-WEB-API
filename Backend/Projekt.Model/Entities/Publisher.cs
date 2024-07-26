@@ -16,4 +16,5 @@ namespace Projekt.Model.Entities
        // [JsonIgnore]
         public ICollection<Book> Books { get; set; }
     }
+    
 }

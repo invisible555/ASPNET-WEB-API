@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\Projekt.Dto.csproj": {}
+    "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektDto\\Projekt.Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj": {
+    "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj",
+        "projectUniqueName": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj",
         "projectName": "Projekt.Model",
-        "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj",
+        "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj",
         "packagesPath": "C:\\Users\\niewi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\obj\\",
+        "outputPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -46,22 +46,30 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -80,18 +88,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\Projekt.Dto.csproj": {
+    "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektDto\\Projekt.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\Projekt.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektDto\\Projekt.Dto.csproj",
         "projectName": "Projekt.Dto",
-        "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\Projekt.Dto.csproj",
+        "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektDto\\Projekt.Dto.csproj",
         "packagesPath": "C:\\Users\\niewi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektDto\\obj\\",
+        "outputPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektDto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,21 +110,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj": {
-                "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj"
+              "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj": {
+                "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj"
               },
-              "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektRepository\\Projekt.Repository.csproj": {
-                "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektRepository\\Projekt.Repository.csproj"
+              "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektRepository\\Projekt.Repository.csproj": {
+                "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektRepository\\Projekt.Repository.csproj"
               }
             }
           }
@@ -133,22 +141,22 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -167,18 +175,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektRepository\\Projekt.Repository.csproj": {
+    "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektRepository\\Projekt.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektRepository\\Projekt.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektRepository\\Projekt.Repository.csproj",
         "projectName": "Projekt.Repository",
-        "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektRepository\\Projekt.Repository.csproj",
+        "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektRepository\\Projekt.Repository.csproj",
         "packagesPath": "C:\\Users\\niewi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\ProjektRepository\\obj\\",
+        "outputPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\ProjektRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -189,18 +197,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj": {
-                "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.Model\\Projekt.Model.csproj"
+              "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj": {
+                "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.Model\\Projekt.Model.csproj"
               }
             }
           }
@@ -217,22 +225,22 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -251,7 +259,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

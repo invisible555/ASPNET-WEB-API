@@ -1,11 +1,14 @@
-import React, { useState } from "react";
+import { KeyboardEventHandler, useState } from "react";
+import IHeaderProps from "../../../interfaces/IHeaderProps";
 
-function SerachBar() {
+function SearchBar(props: IHeaderProps) {
   const [term, setTerm] = useState("");
+
   const search = () => {
-    console.log("szukaj!", term);
+    props.onSearch(term);
   };
-  const onKeyDownHandler = (e) => {
+
+  const onKeyDownHandler: KeyboardEventHandler<HTMLInputElement> = (e) => {
     if (e.key === "Enter") {
       search();
     }
@@ -27,4 +30,4 @@ function SerachBar() {
   );
 }
 
-export default SerachBar;
+export default SearchBar;

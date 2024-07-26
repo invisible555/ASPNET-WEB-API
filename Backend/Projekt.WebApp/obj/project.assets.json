@@ -2460,11 +2460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.WebApp\\Projekt.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.WebApp\\Projekt.WebApp.csproj",
       "projectName": "Projekt.WebApp",
-      "projectPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.WebApp\\Projekt.WebApp.csproj",
+      "projectPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.WebApp\\Projekt.WebApp.csproj",
       "packagesPath": "C:\\Users\\niewi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niewi\\Desktop\\ProjektTNAI\\Projekt\\Projekt.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\niewi\\Desktop\\projektNauka\\SimpleApp\\Backend\\Projekt.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

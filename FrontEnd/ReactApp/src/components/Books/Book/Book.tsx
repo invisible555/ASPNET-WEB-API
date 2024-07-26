@@ -1,8 +1,8 @@
 import styles from "./Book.module.css";
 import img from "../../../assets/images/react.svg";
+import IBook from "../../../interfaces/IBook";
 
-function Book(props) {
-
+function Book(props: IBook) {
   return (
     <div className={`row ${styles.book}`}>
       <div className="col-4">
@@ -12,6 +12,7 @@ function Book(props) {
         <div className="row">
           <div className="col">
             <p>{props.name}</p>
+            <p>{props.rating}</p>
             <p>{props.description}</p>
           </div>
         </div>

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,7 @@ using Projekt.Model;
 using Projekt.Model.Entities;
 using Projekt.Repository.Books;
 using System.ComponentModel;
+using Microsoft.AspNetCore.Identity;
 
 namespace Projekt.Api.Controllers
 {
@@ -47,7 +49,7 @@ namespace Projekt.Api.Controllers
             var bookDto = _mapper.Map<List<BookDto>>(book);
             return Ok(bookDto);
         }
-        [HttpGet]
+        [HttpGet,Authorize(Roles="Admin")]
         public async Task<IActionResult> GetAll()
         {
             var books = await _bookRepository.GetAllBooksAsync();
