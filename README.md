@@ -37,4 +37,4 @@ Aby uruchomić aplikację ASP.NET Core Web API, wykonaj poniższe kroki:
 
    - Powinieneś zobaczyć interfejs Swagger, który pozwala na interakcję z Twoim API.
   
-  
+  **FrontEnd** w przygotowaniu 
